@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<order orderid="889923">
+  <person>John Doe</person>
+  <shipto>
+    <name>Jane Doe</name>
+    <address>2032 Latham Street</address>
+    <city>Bristol</city>
+    <country>United Kingdom</country>
+  </shipto>
+  <item>
+    <name>Brother HL-L3210CW</name>
+    <id>001</id>
+    <note>Non Duplex</note>
+    <quantity>1</quantity>
+    <price>199.90</price>
+  </item>
+  <item>
+    <name>Philips USB 64GB</name>
+    <id>002</id>
+    <quantity>2</quantity>
+    <price>15.90</price>
+  </item>
+</order>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrackingUpdateResponse>
+    <Status>0</Status>
+    <Order id="40298">
+           <Warehouse>Philadelphia</Warehouse>
+           <Shipped>true</Shipped>
+           <Shipper>ABCD FC</Shipper>
+           <ShipperFullName>"ABCD First-Class Mail Parcel + Delivery Confirmation</ShipperFullName>
+           <ShipDate>2020-03-15 10:40:06</ShipDate>
+           <Delivered>true</Delivered>
+           <ExpectedDeliveryDate>2020-03-22T00:00:00</ExpectedDeliveryDate>
+           <Charges>
+               <Handling>0.00</Handling>
+               <Shipping>4.47</Shipping>
+               <Packaging>0.00</Packaging>
+               <Total>4.47</Total>
+           </Charges>
+           <Returned>true</Returned>
+           <ReturnDate>2020-05-04T17:33:25</ReturnDate>
+           <ReturnCondition>GOOD</ReturnCondition>
+           <Link>https://1234.com/c/t/xxx1:yyy2</Link>           
+           <ManuallyEdited>false</ManuallyEdited>
+           <TrackingNumber>9400110200793472606087
+               <Carrier>ABCD</Carrier>
+               <Delivered>true</Delivered>
+               <DeliveryDate>2020-03-21T17:10:00</DeliveryDate>
+               <Link>http://trkcnfrm1.1234.com/Tracking.do?TrackingNumber=9400110200793472606087</Link>
+            </TrackingNumber>
+    </Order>
+    <Order id="40299">
+           <Warehouse>Chicago</Warehouse>
+           <Shipped>true</Shipped>
+           <Shipper>ABCD FC</Shipper>
+           <ShipperFullName>"ABCD First-Class Mail Parcel + Delivery Confirmation</ShipperFullName>
+           <ShipDate>2020-04-15 10:45:07</ShipDate>
+           <Delivered>false</Delivered>
+           <ExpectedDeliveryDate>2020-04-22T00:00:00</ExpectedDeliveryDate>
+           <Charges>
+               <Handling>0.00</Handling>
+               <Shipping>5.50</Shipping>
+               <Packaging>0.00</Packaging>
+               <Total>5.50</Total>
+           </Charges>
+           <Returned>false</Returned>
+           <Link>https://1234.com/c/t/xxx1:yyy2</Link>           
+           <ManuallyEdited>false</ManuallyEdited>
+           <TrackingNumber>9400110200793472606088
+               <Carrier>ABCD</Carrier>
+               <Delivered>false</Delivered>
+               <DeliveryDate>2011-03-21T17:10:00</DeliveryDate>
+               <Link>http://trkcnfrm1.1234.com/Tracking.do?TrackingNumber=9400110200793472606088</Link>
+            </TrackingNumber>
+    </Order>    
+    <TotalOrders>2</TotalOrders>
+    <TotalShippedOrders>2</TotalShippedOrders>
+    <TotalProducts>6</TotalProducts>
+    <Bookmark>2020-110-22 14:13:16</Bookmark>
+    <ProcessingTime units="ms">1192</ProcessingTime>
+</TrackingUpdateResponse>

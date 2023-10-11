@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<invoice invoiceno="100"
+xmlns="http://www.tudublin.ie"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tudublin.ie invoice.xsd">
+
+  <invoicedate>12/02/2022</invoicedate>
+  <invoicetotal>110.50</invoicetotal>
+  <issuedby>Clothes Wholesaler</issuedby>
+  <billto>
+    <name>Philip Herweling</name>
+    <address>Morette Emo</address>
+    <city>Laois</city>
+  </billto>
+  <item>
+    <title>Nicce Jumper</title>
+    <quantity>1</quantity>
+    <price>65.50</price>
+  </item>
+  <item>
+    <title>United Halfzip</title>
+    <quantity>1</quantity>
+    <price>45.00</price>
+  </item>
+  <paymentinfo>
+	<accounttype>Current</accounttype>
+	<iban>UL200023030</iban>
+  </paymentinfo>
+</invoice>

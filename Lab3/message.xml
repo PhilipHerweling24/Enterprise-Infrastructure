@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="message.xsl"?>
+
+<messages>
+	<message>
+		<to>John</to>
+		<from>Jane</from>
+		<subject>Greeting</subject>
+		<body>Hi John</body>
+	</message> 
+	<message>
+		<to>Me</to>
+		<from>You</from>
+		<subject>Subject</subject>
+		<body>Message</body>		
+	</message> 
+</messages>
